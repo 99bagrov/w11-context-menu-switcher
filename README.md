@@ -60,7 +60,3 @@ If you'd rather undo the change by hand:
    ```
 3. Delete the whole `{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}` key.
 4. Restart Explorer (or sign out and back in).
-
-## License
-
-MIT — see [LICENSE](LICENSE).
